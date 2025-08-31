@@ -1,0 +1,1122 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-08-30T06:27:29Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 306415022,
+  "lat": -8.7424680,
+  "lon": 115.2094313,
+  "tags": {
+    "fixme": "Replace this node with an area",
+    "harbour": "yes",
+    "industrial": "port",
+    "is_in": "Tanjung Benoa,South Bali,Bali,Indonesia",
+    "landuse": "industrial",
+    "name": "Benoa Port"
+  }
+},
+{
+  "type": "node",
+  "id": 823206026,
+  "lat": -6.0474420,
+  "lon": 105.9220679,
+  "tags": {
+    "alt_name": "Pelabuhan Anyer",
+    "harbour": "yes",
+    "name": "Anyer",
+    "seamark:harbour:category": "fishing",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 1092560522,
+  "lat": -7.1967876,
+  "lon": 112.7222925,
+  "tags": {
+    "access:swell": "yes",
+    "access:tide": "yes",
+    "harbour": "yes",
+    "name": "Tanjung Perak",
+    "operator": "PT. Terminal Petikemas Surabaya",
+    "phone": "+62-31-3283265-70",
+    "seamark:name": "Port of Surabaya",
+    "seamark:type": "harbour",
+    "website": "https://www.tps.co.id/"
+  }
+},
+{
+  "type": "node",
+  "id": 1137532218,
+  "lat": 22.5076453,
+  "lon": 114.3152313,
+  "tags": {
+    "harbour": "yes",
+    "name": "黃竹角海 Wong Chuk Kok Hoi",
+    "name:en": "Wong Chuk Kok Hoi",
+    "name:zh": "黃竹角海",
+    "natural": "water"
+  }
+},
+{
+  "type": "node",
+  "id": 1248767818,
+  "lat": -4.8203324,
+  "lon": 136.8457335,
+  "tags": {
+    "harbour": "yes",
+    "name": "Cargo Dock Mile Post 0"
+  }
+},
+{
+  "type": "node",
+  "id": 1412924414,
+  "lat": -8.8747734,
+  "lon": 116.1619446,
+  "tags": {
+    "harbour": "yes",
+    "name": "Mawi",
+    "seamark:harbour:category": "fishing",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 1443522709,
+  "lat": -8.4060247,
+  "lon": 116.0735492,
+  "tags": {
+    "addr:city": "North Lombok",
+    "addr:village": "Desa Malaka",
+    "alt_name": "Teluk Nara",
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "harbour": "yes",
+    "name": "Teluk Nare",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1722155645,
+  "lat": -0.8778259,
+  "lon": 131.2526859,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan Usahamina"
+  }
+},
+{
+  "type": "node",
+  "id": 1848302390,
+  "lat": -0.0196860,
+  "lon": 109.3375629,
+  "tags": {
+    "alt_name": "Terminal Penumpang Pontianak",
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "harbour": "yes",
+    "local_ref": "PNK",
+    "name": "Dwikora Pontianak",
+    "name:en": "Dwikora Pontianak",
+    "operator": "Pelindo",
+    "public_transport": "stop_position",
+    "ref:wpi": "ID PNK",
+    "wikidata": "Q19752395",
+    "wikipedia": "id:Pelindo"
+  }
+},
+{
+  "type": "node",
+  "id": 1902828328,
+  "lat": 11.2024421,
+  "lon": 99.5819014,
+  "tags": {
+    "harbour": "yes",
+    "man_made": "storage_tank",
+    "name": "Deep Sea Harbor",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 1915707062,
+  "lat": 16.6665364,
+  "lon": 112.7241796,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "harbour": "yes",
+    "name": "东岛码头",
+    "name:vi": "Bến tàu Đông Đảo",
+    "name:zh": "东岛码头",
+    "name:zh-Hans": "东岛码头",
+    "name:zh-Hant": "東島碼頭",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1915774668,
+  "lat": 16.5317839,
+  "lon": 111.6067781,
+  "tags": {
+    "harbour": "yes",
+    "leisure": "marina",
+    "name": "珊瑚岛港口",
+    "name:zh-Hant": "珊瑚島港口",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 2417759945,
+  "lat": 9.6867103,
+  "lon": 118.7496200,
+  "tags": {
+    "harbour": "yes",
+    "name": "Mangingisda Pier",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 2987097301,
+  "lat": 19.9249910,
+  "lon": 102.1803312,
+  "tags": {
+    "category": "passenger",
+    "harbour": "yes",
+    "name": "Slow boat harbour",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3048571796,
+  "lat": 6.6564245,
+  "lon": 99.9716055,
+  "tags": {
+    "contact:email": "info@pss-satun.com",
+    "contact:website": "http://www.pss-satun.com",
+    "harbour": "yes",
+    "name": "PHITHAK Shipyard and Service",
+    "office": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3200329583,
+  "lat": 1.4499195,
+  "lon": 102.1366531,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan Roro Bengkalis",
+    "seamark:harbour:category": "ferry",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 3201527267,
+  "lat": 1.3785379,
+  "lon": 102.1503223,
+  "tags": {
+    "harbour": "yes",
+    "name": "PelabuhRoro Pakning",
+    "seamark:harbour:category": "ferry",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 3294563001,
+  "lat": 11.7731231,
+  "lon": 119.9717815,
+  "tags": {
+    "alt_name": "Halsey Cove",
+    "harbour": "yes",
+    "name": "Halsey Harbor",
+    "natural": "bay"
+  }
+},
+{
+  "type": "node",
+  "id": 3339869810,
+  "lat": 6.8796603,
+  "lon": 116.8457363,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "cargo": "passengers",
+    "ferry": "yes",
+    "harbour": "yes",
+    "name": "Pelabuhan Kudat",
+    "name:en": "Kudat Port",
+    "name:ms": "Pelabuhan Kudat",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3667972113,
+  "lat": 13.5971751,
+  "lon": 100.5865555,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "harbour": "yes",
+    "name": "ท่าเรือพระสมุทรเจดีย์",
+    "name:en": "Phra Samut Chedi Pier",
+    "name:th": "ท่าเรือพระสมุทรเจดีย์",
+    "public_transport": "stop_position",
+    "seamark:harbour:category": "ferry"
+  }
+},
+{
+  "type": "node",
+  "id": 3920358258,
+  "lat": 19.7190081,
+  "lon": 109.2233195,
+  "tags": {
+    "harbour": "yes",
+    "name": "白马井港",
+    "name:en": "Pai-ma-ching Chiao;Baimajing Gang",
+    "name:zh": "白马井港",
+    "seamark:type": "harbour",
+    "source:name": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 3921684579,
+  "lat": 19.2361181,
+  "lon": 110.6205737,
+  "tags": {
+    "harbour": "yes",
+    "name": "谭门港",
+    "name:en": "Tanmen Gang",
+    "name:zh": "谭门港",
+    "seamark:type": "harbour",
+    "source:name": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 3957652086,
+  "lat": 21.4926800,
+  "lon": 95.2955600,
+  "tags": {
+    "harbour": "yes",
+    "name": "IWT slow boat stop"
+  }
+},
+{
+  "type": "node",
+  "id": 3957652087,
+  "lat": 21.6363967,
+  "lon": 95.3604883,
+  "tags": {
+    "harbour": "yes",
+    "name": "IWT Slow boat stop"
+  }
+},
+{
+  "type": "node",
+  "id": 3957654146,
+  "lat": 21.2087064,
+  "lon": 94.9173059,
+  "tags": {
+    "harbour": "yes",
+    "name": "IWT Slow boat"
+  }
+},
+{
+  "type": "node",
+  "id": 3957654147,
+  "lat": 21.5188397,
+  "lon": 95.3196831,
+  "tags": {
+    "harbour": "yes",
+    "name": "IWT Slow boat stop"
+  }
+},
+{
+  "type": "node",
+  "id": 3957654148,
+  "lat": 21.7248717,
+  "lon": 95.3835600,
+  "tags": {
+    "harbour": "yes",
+    "name": "IWT Slow boat stop"
+  }
+},
+{
+  "type": "node",
+  "id": 3957654149,
+  "lat": 21.7952233,
+  "lon": 95.4449967,
+  "tags": {
+    "description": "Tuesday, 7:30",
+    "harbour": "yes",
+    "name": "IWT Slowboat stop"
+  }
+},
+{
+  "type": "node",
+  "id": 3957654457,
+  "lat": 21.3133767,
+  "lon": 95.0566217,
+  "tags": {
+    "harbour": "yes",
+    "name": "IWT Slowboat"
+  }
+},
+{
+  "type": "node",
+  "id": 3957654458,
+  "lat": 21.5669432,
+  "lon": 95.3357056,
+  "tags": {
+    "harbour": "yes",
+    "name": "IWT Slow boat stop"
+  }
+},
+{
+  "type": "node",
+  "id": 3957654459,
+  "lat": 21.7355700,
+  "lon": 95.4130667,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "harbour": "yes",
+    "name": "IWT Slow boat stop",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3957654460,
+  "lat": 21.9202750,
+  "lon": 95.5841400,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "description": "Arrival tuesday 10:00",
+    "ferry": "yes",
+    "harbour": "yes",
+    "name": "IWT Slow boat stop",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3969044993,
+  "lat": 12.5742756,
+  "lon": 101.4632793,
+  "tags": {
+    "harbour": "yes",
+    "name:en": "samed port Rayong Pao",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 4349232536,
+  "lat": -8.8515638,
+  "lon": 116.0590157,
+  "tags": {
+    "description": "Beachfront Harbour",
+    "harbour": "yes",
+    "name": "Belongas Bay Harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 4349337154,
+  "lat": -8.4048495,
+  "lon": 116.0717824,
+  "tags": {
+    "harbour": "yes",
+    "name": "Lombok Dive Harbour",
+    "opening_hours": "Mo-Su 08:30-09:00, 15:00-15:30"
+  }
+},
+{
+  "type": "node",
+  "id": 4391208169,
+  "lat": -0.9133865,
+  "lon": 121.6600167,
+  "tags": {
+    "description": "large ferry to Wakai / Gorontalo on Monday & Thursday",
+    "harbour": "yes",
+    "name": "Uebone"
+  }
+},
+{
+  "type": "node",
+  "id": 4472671351,
+  "lat": 24.0686136,
+  "lon": 123.7664969,
+  "tags": {
+    "harbour": "yes",
+    "name": "波照間漁港",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4472684336,
+  "lat": 24.4664744,
+  "lon": 123.8205414,
+  "tags": {
+    "harbour": "yes",
+    "name": "鳩間港",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4472714718,
+  "lat": 24.2371635,
+  "lon": 123.9390588,
+  "tags": {
+    "harbour": "yes",
+    "name": "上地港",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4472740765,
+  "lat": 24.2568787,
+  "lon": 124.0033922,
+  "tags": {
+    "harbour": "yes",
+    "name": "黒島港",
+    "name:en": "Kuroshima Port",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4472816572,
+  "lat": 24.3356709,
+  "lon": 124.0999908,
+  "tags": {
+    "harbour": "yes",
+    "name": "竹富東港",
+    "name:fr": "Port Est de Taketomi",
+    "name:ja-Hira": "たけとみ ひがしみなと",
+    "name:ja-Latn": "Taketomi-higashiminato",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4474448793,
+  "lat": 24.3481468,
+  "lon": 123.9984943,
+  "tags": {
+    "harbour": "yes",
+    "name": "小浜港",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4474456120,
+  "lat": 24.7467680,
+  "lon": 124.6972248,
+  "tags": {
+    "harbour": "yes",
+    "name": "水納港",
+    "name:en": "Minna Port",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4474738675,
+  "lat": 24.6779096,
+  "lon": 124.7086373,
+  "tags": {
+    "harbour": "yes",
+    "name": "前泊港",
+    "name:ja": "前泊港",
+    "name:ko": "마에도마리항",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4474738677,
+  "lat": 24.6446075,
+  "lon": 124.7247762,
+  "tags": {
+    "harbour": "yes",
+    "name": "多良間港",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4741660145,
+  "lat": 10.3220183,
+  "lon": 123.9570271,
+  "tags": {
+    "cargo": "liquid_bulk",
+    "dock": "tidal",
+    "harbour": "yes",
+    "industrial": "port",
+    "name": "Petron Mandaue Terminal",
+    "port": "cargo",
+    "water": "harbour",
+    "waterway": "dock"
+  }
+},
+{
+  "type": "node",
+  "id": 4763198524,
+  "lat": -3.5892724,
+  "lon": 128.3342437,
+  "tags": {
+    "harbour": "yes",
+    "name": "Speedboats to Haria"
+  }
+},
+{
+  "type": "node",
+  "id": 4763212132,
+  "lat": -3.5344504,
+  "lon": 128.6880431,
+  "tags": {
+    "harbour": "yes",
+    "name": "Ambon & Seram"
+  }
+},
+{
+  "type": "node",
+  "id": 4834762522,
+  "lat": 19.3204835,
+  "lon": 95.1848964,
+  "tags": {
+    "harbour": "yes",
+    "name": "သရက္ေလွဆိပ္",
+    "seamark:harbour:category": "fishing",
+    "seamark:name": "သရက္ေလွဆိပ္",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 5097306417,
+  "lat": -0.4325286,
+  "lon": 130.8027935,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "harbour": "yes",
+    "name": "Waisai",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 5411830390,
+  "lat": 22.2735253,
+  "lon": 114.2684874,
+  "tags": {
+    "harbour": "yes",
+    "name": "躉船港池 Barging Basin",
+    "name:en": "Barging Basin",
+    "name:yue": "躉船港池",
+    "name:zh-Hans": "趸船港池",
+    "name:zh-Hant": "躉船港池",
+    "natural": "bay"
+  }
+},
+{
+  "type": "node",
+  "id": 5729355933,
+  "lat": -7.7275880,
+  "lon": 108.9966549,
+  "tags": {
+    "harbour": "yes",
+    "name": "Boats from Kalipucang"
+  }
+},
+{
+  "type": "node",
+  "id": 5825261684,
+  "lat": 10.4749634,
+  "lon": 107.1682720,
+  "tags": {
+    "harbour": "yes",
+    "name": "Cảng xăng dầu Bến Súc"
+  }
+},
+{
+  "type": "node",
+  "id": 6084674778,
+  "lat": 8.0119923,
+  "lon": 98.9614883,
+  "tags": {
+    "harbour": "yes",
+    "leisure": "marina",
+    "seamark:harbour:category": "marina",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 6502890100,
+  "lat": 21.7374834,
+  "lon": 112.2226922,
+  "tags": {
+    "harbour": "yes",
+    "name": "东平渔港码头",
+    "public_transport": "station",
+    "seamark:harbour:category": "fishing",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 7700099963,
+  "lat": -8.3700962,
+  "lon": 123.4041409,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "cargo": "passengers",
+    "ferry": "yes",
+    "harbour": "yes",
+    "name": "Pelabuhan Lewoleba",
+    "name:en": "Lewoleba Port",
+    "public_transport": "stop_position",
+    "seamark:harbour:category": "fishing;passenger",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 8296802338,
+  "lat": 24.4514274,
+  "lon": 122.9415285,
+  "tags": {
+    "harbour": "yes",
+    "name": "久部良漁港",
+    "name:en": "Kubura Fishery Port",
+    "wikidata": "Q117272321"
+  }
+},
+{
+  "type": "node",
+  "id": 8997664220,
+  "lat": 10.4207620,
+  "lon": 107.2121081,
+  "tags": {
+    "harbour": "yes",
+    "name": "Hung Thai seafood port",
+    "port_of_entry": "no",
+    "seamark:harbour:category": "fishing",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 9008814966,
+  "lat": 24.9244948,
+  "lon": 125.2495479,
+  "tags": {
+    "harbour": "yes",
+    "name": "池間漁港",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 9293133991,
+  "lat": 24.7718503,
+  "lon": 125.3993815,
+  "tags": {
+    "harbour": "yes",
+    "name": "浦底漁港",
+    "name:en": "Urazoku Fishing Port",
+    "note": "正しい発音ですか？",
+    "seamark:harbour:category": "fishing",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 9293133995,
+  "lat": 24.8034480,
+  "lon": 125.3379106,
+  "tags": {
+    "harbour": "yes",
+    "name": "高野漁港",
+    "note": "正しい発音ですか？",
+    "seamark:harbour:category": "fishing",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 9293161906,
+  "lat": 24.7605592,
+  "lon": 125.2815306,
+  "tags": {
+    "harbour": "yes",
+    "name": "川満漁港",
+    "seamark:harbour:category": "fishing",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 9293215787,
+  "lat": 24.8338401,
+  "lon": 125.3206104,
+  "tags": {
+    "harbour": "yes",
+    "name": "真謝漁港",
+    "seamark:harbour:category": "fishing",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 9293245122,
+  "lat": 24.7335696,
+  "lon": 125.2654695,
+  "tags": {
+    "harbour": "yes",
+    "name": "前浜港",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 9293245329,
+  "lat": 24.7818740,
+  "lon": 125.2632540,
+  "tags": {
+    "harbour": "yes",
+    "name": "久松漁港",
+    "seamark:harbour:category": "fishing",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 9293245339,
+  "lat": 24.8122519,
+  "lon": 125.2691173,
+  "tags": {
+    "harbour": "yes",
+    "name": "平良港",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 9293245341,
+  "lat": 24.8174813,
+  "lon": 125.2765310,
+  "tags": {
+    "harbour": "yes",
+    "name": "荷川取漁港",
+    "seamark:harbour:category": "fishing",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 9293245342,
+  "lat": 24.8392925,
+  "lon": 125.2927315,
+  "tags": {
+    "harbour": "yes",
+    "name": "大浦漁港",
+    "seamark:harbour:category": "fishing",
+    "seamark:type": "harbour"
+  }
+},
+{
+  "type": "node",
+  "id": 9598831853,
+  "lat": 6.0905695,
+  "lon": 125.1561128,
+  "tags": {
+    "harbour": "yes",
+    "name": "Makar Cove",
+    "natural": "bay"
+  }
+},
+{
+  "type": "node",
+  "id": 9866116988,
+  "lat": -4.0030088,
+  "lon": 122.6487950,
+  "tags": {
+    "harbour": "yes",
+    "name": "Dermaga PT TAS"
+  }
+},
+{
+  "type": "node",
+  "id": 9908994478,
+  "lat": 0.1148261,
+  "lon": 117.4925434,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan Tanjung Laut"
+  }
+},
+{
+  "type": "node",
+  "id": 10219652956,
+  "lat": -5.3262282,
+  "lon": 123.5349781,
+  "tags": {
+    "description": "WangiWangi - Pasarwayo",
+    "harbour": "yes",
+    "name": "Pelabuhan Pangulubelo"
+  }
+},
+{
+  "type": "node",
+  "id": 10220627616,
+  "lat": -5.3609475,
+  "lon": 123.5575048,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan Numana"
+  }
+},
+{
+  "type": "node",
+  "id": 10226999297,
+  "lat": -5.7357647,
+  "lon": 123.8929913,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan Penyeberangan Tomia"
+  }
+},
+{
+  "type": "node",
+  "id": 10227984293,
+  "lat": -5.7795859,
+  "lon": 123.9379949,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan Usuku"
+  }
+},
+{
+  "type": "node",
+  "id": 10285534238,
+  "lat": -5.1765468,
+  "lon": 123.0676997,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan Kamaru"
+  }
+},
+{
+  "type": "node",
+  "id": 11738601686,
+  "lat": 9.4193493,
+  "lon": 99.9458050,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "harbour": "yes",
+    "name": "Coral harbor pier",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 12128979259,
+  "lat": -3.8495175,
+  "lon": 126.7342950,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan laut buru Selatan"
+  }
+},
+{
+  "type": "node",
+  "id": 12129138107,
+  "lat": -3.8505175,
+  "lon": 126.7068865,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan kecil desa lektama"
+  }
+},
+{
+  "type": "node",
+  "id": 12139659685,
+  "lat": -3.6822145,
+  "lon": 127.0888872,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan Rakyat"
+  }
+},
+{
+  "type": "node",
+  "id": 12141757231,
+  "lat": -3.7803206,
+  "lon": 126.5097857,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan Leksula"
+  }
+},
+{
+  "type": "node",
+  "id": 12146145805,
+  "lat": -3.6822145,
+  "lon": 127.0888872,
+  "tags": {
+    "harbour": "yes",
+    "name": "Pelabuhan Rakyat"
+  }
+},
+{
+  "type": "node",
+  "id": 13050864675,
+  "lat": -1.5082994,
+  "lon": 123.4433517,
+  "tags": {
+    "description": "Embarcadère liaison vers Banggai Laut",
+    "harbour": "yes",
+    "name": "Port de Tobing"
+  }
+},
+{
+  "type": "node",
+  "id": 13050866290,
+  "lat": -1.5079090,
+  "lon": 123.5159612,
+  "tags": {
+    "harbour": "yes",
+    "name": "Embarcadère pour Oyama et Long beach"
+  }
+},
+{
+  "type": "node",
+  "id": 1,
+  "lat": 1.3660,
+  "lon": 103.5086,
+  "tags": {
+    "harbour": "yes",
+    "name": "Port of Tanjung Pelepas"
+
+  }
+},
+{
+  "type": "node",
+  "id": 2,
+  "lat": 1.4600,
+  "lon": 103.9070,
+  "tags": {
+    "name": "Johor Port",
+    "harbour": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3,
+  "lat": 1.3360,
+  "lon": 103.8670,
+  "tags": {
+    "name": "Tanjung Langsat Port",
+    "harbour": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4,
+  "lat": 3.0078,
+  "lon": 101.3260,
+  "tags": {
+    "name": "Port Klang",
+    "harbour": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5,
+  "lat": 5.3550,
+  "lon": 100.2920,
+  "tags": {
+    "name": "Port of Penang",
+    "harbour": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6,
+  "lat": 1.2935,
+  "lon": 103.8530,
+  "tags": {
+    "name": "Keppel Harbour",
+    "harbour": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7,
+  "lat": 1.2835,
+  "lon": 103.7490,
+  "tags": {
+    "name": "Jurong Marine Base",
+    "harbour": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8,
+  "lat": 1.2620,
+  "lon": 103.6950,
+  "tags": {
+    "name": "Pasir Panjang Terminal",
+    "harbour": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9,
+  "lat": 1.0870,
+  "lon": 104.0300,
+  "tags": {
+    "name": "Batam Island Port",
+    "harbour": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10,
+  "lat": 1.1280,
+  "lon": 104.0410,
+  "tags": {
+    "name": "Batam Harbour Bay Ferry Terminal",
+    "harbour": "yes"
+  }
+}
+
+  ]
+}

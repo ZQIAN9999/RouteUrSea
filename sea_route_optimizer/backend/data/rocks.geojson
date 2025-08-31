@@ -1,0 +1,7269 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-08-30T11:06:59Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 302226608,
+  "lat": 12.5259872,
+  "lon": 123.4043337,
+  "tags": {
+    "name": "Catbatan Rock",
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock",
+    "wikidata": "Q31497160"
+  }
+},
+{
+  "type": "node",
+  "id": 2192703097,
+  "lat": 22.2712667,
+  "lon": 114.0674167,
+  "tags": {
+    "seamark:rock:water_level": "submerged",
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 2595267294,
+  "lat": 5.6047402,
+  "lon": 95.1947432,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3026584051,
+  "lat": 1.3901720,
+  "lon": 103.9719978,
+  "tags": {
+    "natural": "rock",
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3026584060,
+  "lat": 1.3915768,
+  "lon": 103.9721435,
+  "tags": {
+    "natural": "rock",
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361673,
+  "lat": 12.2952244,
+  "lon": 125.3961739,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361674,
+  "lat": 12.2970843,
+  "lon": 125.4095338,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361675,
+  "lat": 12.2977903,
+  "lon": 125.3992979,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361676,
+  "lat": 12.2990369,
+  "lon": 125.4035687,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361677,
+  "lat": 12.2997195,
+  "lon": 125.4015185,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361678,
+  "lat": 12.2999555,
+  "lon": 125.4073024,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361679,
+  "lat": 12.3002464,
+  "lon": 125.4092128,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361680,
+  "lat": 12.3018171,
+  "lon": 125.4079914,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361681,
+  "lat": 12.3049696,
+  "lon": 125.3885255,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361682,
+  "lat": 12.3060269,
+  "lon": 125.3874614,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361683,
+  "lat": 12.3064562,
+  "lon": 125.3846738,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361684,
+  "lat": 12.3065476,
+  "lon": 125.3810568,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361689,
+  "lat": 12.3124443,
+  "lon": 125.3568118,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361705,
+  "lat": 12.3137121,
+  "lon": 125.3543955,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361730,
+  "lat": 12.3233716,
+  "lon": 125.3524896,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361731,
+  "lat": 12.3264551,
+  "lon": 125.3529176,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361732,
+  "lat": 12.3279020,
+  "lon": 125.3384350,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361733,
+  "lat": 12.3285979,
+  "lon": 125.3513127,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361734,
+  "lat": 12.3286502,
+  "lon": 125.3481564,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361735,
+  "lat": 12.3293296,
+  "lon": 125.3501892,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361736,
+  "lat": 12.3297477,
+  "lon": 125.3489588,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361737,
+  "lat": 12.3303046,
+  "lon": 125.3391891,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361738,
+  "lat": 12.3323228,
+  "lon": 125.3373529,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361739,
+  "lat": 12.3323673,
+  "lon": 125.3258857,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361740,
+  "lat": 12.3326431,
+  "lon": 125.3390908,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361741,
+  "lat": 12.3339933,
+  "lon": 125.3240700,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361742,
+  "lat": 12.3348063,
+  "lon": 125.3221030,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361743,
+  "lat": 12.3352497,
+  "lon": 125.3193793,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223361750,
+  "lat": 12.4823317,
+  "lon": 125.2655162,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223362171,
+  "lat": 12.4920694,
+  "lon": 125.2668379,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223362172,
+  "lat": 12.4925526,
+  "lon": 125.2660009,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223362173,
+  "lat": 12.5792947,
+  "lon": 125.1638256,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223362176,
+  "lat": 12.5914438,
+  "lon": 125.1530700,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223362177,
+  "lat": 12.5973311,
+  "lon": 125.1514070,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223362178,
+  "lat": 12.6022221,
+  "lon": 125.1492849,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3223362179,
+  "lat": 12.6061536,
+  "lon": 125.1444860,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269443982,
+  "lat": -1.5491387,
+  "lon": 108.9350041,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269444447,
+  "lat": -1.5626893,
+  "lon": 108.8715355,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269444526,
+  "lat": -1.5658923,
+  "lon": 108.9547962,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269445918,
+  "lat": -1.5915353,
+  "lon": 108.7621510,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448187,
+  "lat": -1.6616641,
+  "lon": 108.8979476,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448196,
+  "lat": -1.6619832,
+  "lon": 108.8976754,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448216,
+  "lat": -1.6620875,
+  "lon": 108.8978923,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448262,
+  "lat": -1.6628811,
+  "lon": 108.8971803,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448265,
+  "lat": -1.6631408,
+  "lon": 108.8963106,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448266,
+  "lat": -1.6632308,
+  "lon": 108.8968692,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448335,
+  "lat": -1.6686589,
+  "lon": 108.8945536,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448385,
+  "lat": -1.6692745,
+  "lon": 108.8880362,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448395,
+  "lat": -1.6694365,
+  "lon": 108.8868671,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448410,
+  "lat": -1.6705949,
+  "lon": 108.8858518,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448430,
+  "lat": -1.6718437,
+  "lon": 108.8830312,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448490,
+  "lat": -1.6751299,
+  "lon": 108.8708607,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448542,
+  "lat": -1.6768030,
+  "lon": 108.8644043,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3269448551,
+  "lat": -1.6772775,
+  "lon": 108.8655338,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3540709382,
+  "lat": 12.6271316,
+  "lon": 101.5564980,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 3674365685,
+  "lat": 22.1879500,
+  "lon": 113.9115000,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 3856735357,
+  "lat": 22.2666333,
+  "lon": 114.0251167,
+  "tags": {
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 4007848157,
+  "lat": 6.6636263,
+  "lon": 121.8129935,
+  "tags": {
+    "seamark:rock:water_level": "submerged",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4007848158,
+  "lat": 6.6639740,
+  "lon": 121.8139018,
+  "tags": {
+    "seamark:rock:water_level": "submerged",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082858,
+  "lat": 11.7201604,
+  "lon": 119.9285610,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082859,
+  "lat": 11.7208570,
+  "lon": 119.9288782,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082860,
+  "lat": 11.7211465,
+  "lon": 119.9288696,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082861,
+  "lat": 11.7213647,
+  "lon": 119.9286682,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082862,
+  "lat": 11.7216375,
+  "lon": 119.9282696,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082863,
+  "lat": 11.7218221,
+  "lon": 119.9291739,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082864,
+  "lat": 11.7219187,
+  "lon": 119.9290839,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082865,
+  "lat": 11.7221411,
+  "lon": 119.9292853,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082866,
+  "lat": 11.7236685,
+  "lon": 119.9287882,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082867,
+  "lat": 11.7237063,
+  "lon": 119.9293967,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082868,
+  "lat": 11.7237566,
+  "lon": 119.9300867,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082869,
+  "lat": 11.7244611,
+  "lon": 119.9370278,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082870,
+  "lat": 11.7264590,
+  "lon": 119.9287710,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082871,
+  "lat": 11.7287417,
+  "lon": 119.9282139,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082872,
+  "lat": 11.7290354,
+  "lon": 119.9279696,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082873,
+  "lat": 11.7299838,
+  "lon": 119.9277253,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082874,
+  "lat": 11.7346792,
+  "lon": 119.9268682,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082875,
+  "lat": 11.7349016,
+  "lon": 119.9266325,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082876,
+  "lat": 11.7350904,
+  "lon": 119.9266368,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082877,
+  "lat": 11.7372724,
+  "lon": 119.9265296,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082878,
+  "lat": 11.7379647,
+  "lon": 119.9266368,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082879,
+  "lat": 11.7404823,
+  "lon": 119.9255954,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082880,
+  "lat": 11.7450979,
+  "lon": 119.9234954,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082881,
+  "lat": 11.7479049,
+  "lon": 119.9315524,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4021082882,
+  "lat": 11.7481861,
+  "lon": 119.9315010,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4023255668,
+  "lat": 11.7568154,
+  "lon": 119.9684806,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4023255670,
+  "lat": 11.7570350,
+  "lon": 119.9693173,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4023255682,
+  "lat": 11.7607153,
+  "lon": 119.9546520,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388010,
+  "lat": 12.0495288,
+  "lon": 119.8650059,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388011,
+  "lat": 12.0496127,
+  "lon": 119.8645767,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388012,
+  "lat": 12.0496127,
+  "lon": 119.8654136,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388016,
+  "lat": 12.0512260,
+  "lon": 119.7845477,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388024,
+  "lat": 12.0520706,
+  "lon": 119.7895151,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388029,
+  "lat": 12.0523172,
+  "lon": 119.7848266,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388049,
+  "lat": 12.0547828,
+  "lon": 119.7858244,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388051,
+  "lat": 12.0557219,
+  "lon": 119.7935331,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388053,
+  "lat": 12.0559370,
+  "lon": 119.7933453,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388059,
+  "lat": 12.0575371,
+  "lon": 119.7895848,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388072,
+  "lat": 12.0579830,
+  "lon": 119.7905665,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388080,
+  "lat": 12.0725719,
+  "lon": 119.8335865,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388962,
+  "lat": 11.7598162,
+  "lon": 119.9313624,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388963,
+  "lat": 11.7599632,
+  "lon": 119.9303432,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388964,
+  "lat": 11.7600577,
+  "lon": 119.9290772,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388969,
+  "lat": 11.7614652,
+  "lon": 119.9265130,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388971,
+  "lat": 11.7621480,
+  "lon": 119.9256225,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388982,
+  "lat": 11.7635449,
+  "lon": 119.9248607,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032388988,
+  "lat": 11.7661078,
+  "lon": 119.9237020,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389290,
+  "lat": 11.7666119,
+  "lon": 119.9229510,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389291,
+  "lat": 11.7673682,
+  "lon": 119.9216850,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389293,
+  "lat": 11.7706872,
+  "lon": 119.9233694,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389296,
+  "lat": 11.7735126,
+  "lon": 119.9245711,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389299,
+  "lat": 11.7813478,
+  "lon": 119.9200006,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389300,
+  "lat": 11.7871033,
+  "lon": 119.9137027,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389301,
+  "lat": 11.7877964,
+  "lon": 119.9129946,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389302,
+  "lat": 11.7882376,
+  "lon": 119.9127050,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389303,
+  "lat": 11.7916929,
+  "lon": 119.9076624,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389304,
+  "lat": 11.7919974,
+  "lon": 119.9068470,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389308,
+  "lat": 11.7940664,
+  "lon": 119.9072333,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389309,
+  "lat": 11.7942134,
+  "lon": 119.9069758,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389310,
+  "lat": 11.7943185,
+  "lon": 119.9066324,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389311,
+  "lat": 11.7957153,
+  "lon": 119.9084993,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389313,
+  "lat": 11.7960303,
+  "lon": 119.9080594,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389314,
+  "lat": 11.7963454,
+  "lon": 119.9076624,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389315,
+  "lat": 11.7987399,
+  "lon": 119.9046476,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389351,
+  "lat": 11.8183362,
+  "lon": 119.9025662,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389358,
+  "lat": 11.8247105,
+  "lon": 119.8976631,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389360,
+  "lat": 11.8249625,
+  "lon": 119.8986824,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389378,
+  "lat": 11.8298455,
+  "lon": 119.8936506,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389380,
+  "lat": 11.8302131,
+  "lon": 119.8931999,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389381,
+  "lat": 11.8310216,
+  "lon": 119.8938759,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389382,
+  "lat": 11.8312527,
+  "lon": 119.8933823,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389389,
+  "lat": 11.8327018,
+  "lon": 119.8941119,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032389411,
+  "lat": 11.8389812,
+  "lon": 119.8958500,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032402694,
+  "lat": 12.0800155,
+  "lon": 119.8718402,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032402707,
+  "lat": 12.0808968,
+  "lon": 119.8717248,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032402708,
+  "lat": 12.0810830,
+  "lon": 119.8720735,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4032402709,
+  "lat": 12.0816128,
+  "lon": 119.8720225,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186447,
+  "lat": 12.1366765,
+  "lon": 119.9244605,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186453,
+  "lat": 12.1368981,
+  "lon": 119.9245758,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186636,
+  "lat": 12.1616865,
+  "lon": 119.9020694,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186637,
+  "lat": 12.1617179,
+  "lon": 119.9018575,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186638,
+  "lat": 12.1618372,
+  "lon": 119.9021284,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186708,
+  "lat": 12.1865682,
+  "lon": 119.9031584,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186715,
+  "lat": 12.1875841,
+  "lon": 119.8980823,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186717,
+  "lat": 12.1877224,
+  "lon": 119.8980387,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186730,
+  "lat": 12.1972936,
+  "lon": 119.8637836,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186751,
+  "lat": 12.2277791,
+  "lon": 119.8642986,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186799,
+  "lat": 12.2514463,
+  "lon": 119.8570714,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186803,
+  "lat": 12.2542981,
+  "lon": 119.8638412,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186806,
+  "lat": 12.2549586,
+  "lon": 119.8686156,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186814,
+  "lat": 12.2577789,
+  "lon": 119.8611161,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186826,
+  "lat": 12.2591942,
+  "lon": 119.8711047,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186838,
+  "lat": 12.2596870,
+  "lon": 119.9886283,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186953,
+  "lat": 12.2656865,
+  "lon": 119.8707131,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186959,
+  "lat": 12.2660508,
+  "lon": 119.8697823,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186965,
+  "lat": 12.2662054,
+  "lon": 119.8711369,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186969,
+  "lat": 12.2664623,
+  "lon": 119.8711422,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186974,
+  "lat": 12.2666300,
+  "lon": 119.8691279,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033186976,
+  "lat": 12.2667113,
+  "lon": 119.8696777,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187031,
+  "lat": 12.2713032,
+  "lon": 119.9737045,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187040,
+  "lat": 12.2717016,
+  "lon": 119.9736723,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187391,
+  "lat": 12.2943244,
+  "lon": 119.9298316,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187392,
+  "lat": 12.2944292,
+  "lon": 119.9301427,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187393,
+  "lat": 12.2945563,
+  "lon": 119.9306309,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187394,
+  "lat": 12.2961746,
+  "lon": 119.9255883,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187395,
+  "lat": 12.2961825,
+  "lon": 119.9254703,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187396,
+  "lat": 12.2964052,
+  "lon": 119.9249728,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187397,
+  "lat": 12.2964707,
+  "lon": 119.9245637,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187398,
+  "lat": 12.3007293,
+  "lon": 119.9239656,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187399,
+  "lat": 12.3104884,
+  "lon": 119.8640880,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187400,
+  "lat": 12.3116755,
+  "lon": 119.8653634,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187401,
+  "lat": 12.3125324,
+  "lon": 119.8668346,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187402,
+  "lat": 12.3130879,
+  "lon": 119.8681435,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187403,
+  "lat": 12.3136644,
+  "lon": 119.8696562,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187404,
+  "lat": 12.3140313,
+  "lon": 119.8687657,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187405,
+  "lat": 12.3141256,
+  "lon": 119.8693880,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187406,
+  "lat": 12.3178258,
+  "lon": 119.9267336,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187407,
+  "lat": 12.3210332,
+  "lon": 119.9229356,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187410,
+  "lat": 12.3235698,
+  "lon": 119.9087628,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187414,
+  "lat": 12.3258181,
+  "lon": 119.8782018,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187416,
+  "lat": 12.3262845,
+  "lon": 119.9029478,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187417,
+  "lat": 12.3262897,
+  "lon": 119.8781964,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187419,
+  "lat": 12.3267457,
+  "lon": 119.8778102,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187422,
+  "lat": 12.3270182,
+  "lon": 119.8793873,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187424,
+  "lat": 12.3270706,
+  "lon": 119.9046322,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187427,
+  "lat": 12.3271505,
+  "lon": 119.8836386,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187430,
+  "lat": 12.3272946,
+  "lon": 119.8844272,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187433,
+  "lat": 12.3273484,
+  "lon": 119.8848778,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187435,
+  "lat": 12.3274558,
+  "lon": 119.9023685,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187436,
+  "lat": 12.3275527,
+  "lon": 119.9053940,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187439,
+  "lat": 12.3276995,
+  "lon": 119.8826609,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187440,
+  "lat": 12.3277414,
+  "lon": 119.8829372,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187442,
+  "lat": 12.3280139,
+  "lon": 119.8802671,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187443,
+  "lat": 12.3280978,
+  "lon": 119.8806694,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187450,
+  "lat": 12.3297565,
+  "lon": 119.8949200,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4033187451,
+  "lat": 12.3300054,
+  "lon": 119.8943647,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219427,
+  "lat": 12.1987067,
+  "lon": 120.0784635,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219428,
+  "lat": 12.1988692,
+  "lon": 120.0789034,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219429,
+  "lat": 12.2082886,
+  "lon": 120.0628021,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219430,
+  "lat": 12.2107122,
+  "lon": 120.0613899,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219431,
+  "lat": 12.2131620,
+  "lon": 120.0601937,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219432,
+  "lat": 12.2272784,
+  "lon": 120.0529061,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219433,
+  "lat": 12.2316299,
+  "lon": 120.0516910,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219434,
+  "lat": 12.2325683,
+  "lon": 120.0508327,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219435,
+  "lat": 12.2330978,
+  "lon": 120.0507791,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219436,
+  "lat": 12.2366221,
+  "lon": 120.0839218,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219437,
+  "lat": 12.2371464,
+  "lon": 120.0835973,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219438,
+  "lat": 12.2376012,
+  "lon": 120.0490410,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219439,
+  "lat": 12.2394623,
+  "lon": 120.0487513,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219440,
+  "lat": 12.2413338,
+  "lon": 120.0475014,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219441,
+  "lat": 12.2429747,
+  "lon": 120.0456561,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219442,
+  "lat": 12.2433260,
+  "lon": 120.0454576,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219443,
+  "lat": 12.2433522,
+  "lon": 120.0449533,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219444,
+  "lat": 12.2436405,
+  "lon": 120.0453664,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219445,
+  "lat": 12.2655607,
+  "lon": 120.0990710,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219446,
+  "lat": 12.2688592,
+  "lon": 120.0963297,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219448,
+  "lat": 12.2721052,
+  "lon": 120.0887820,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219450,
+  "lat": 12.2722677,
+  "lon": 120.0892755,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219463,
+  "lat": 12.3383209,
+  "lon": 119.9484756,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219480,
+  "lat": 12.3433098,
+  "lon": 119.9552375,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219481,
+  "lat": 12.3437173,
+  "lon": 119.9586090,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219482,
+  "lat": 12.3454047,
+  "lon": 119.9592501,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219483,
+  "lat": 12.3490519,
+  "lon": 119.9635577,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219484,
+  "lat": 12.3491188,
+  "lon": 119.9630226,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219485,
+  "lat": 12.3495209,
+  "lon": 119.9644080,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219801,
+  "lat": 12.3511428,
+  "lon": 119.9663660,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219810,
+  "lat": 12.3590345,
+  "lon": 119.8961753,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219814,
+  "lat": 12.3596922,
+  "lon": 119.8952097,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219823,
+  "lat": 12.3603812,
+  "lon": 119.8944882,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219832,
+  "lat": 12.3607218,
+  "lon": 119.8949254,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219835,
+  "lat": 12.3611044,
+  "lon": 119.8946893,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219874,
+  "lat": 12.3663444,
+  "lon": 119.9141085,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219887,
+  "lat": 12.3671880,
+  "lon": 119.9162650,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219989,
+  "lat": 12.3680159,
+  "lon": 119.9160048,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053219992,
+  "lat": 12.3686578,
+  "lon": 119.9019071,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053220000,
+  "lat": 12.3698027,
+  "lon": 119.9113727,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053220003,
+  "lat": 12.3699835,
+  "lon": 119.9108791,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053238983,
+  "lat": 12.1734262,
+  "lon": 120.2124627,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053239392,
+  "lat": 12.1854814,
+  "lon": 120.2153675,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053239394,
+  "lat": 12.1856545,
+  "lon": 120.2156813,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053239419,
+  "lat": 12.2081025,
+  "lon": 120.2236046,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053239420,
+  "lat": 12.2084485,
+  "lon": 120.2236743,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053239429,
+  "lat": 12.2109573,
+  "lon": 120.2183394,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053239445,
+  "lat": 12.2256807,
+  "lon": 120.2127376,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053239453,
+  "lat": 12.2264187,
+  "lon": 120.2170654,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4053239454,
+  "lat": 12.2267542,
+  "lon": 120.2173014,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210042,
+  "lat": 12.2973355,
+  "lon": 120.2604219,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210046,
+  "lat": 12.2975976,
+  "lon": 120.2591760,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210049,
+  "lat": 12.2978020,
+  "lon": 120.2589038,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210055,
+  "lat": 12.2982515,
+  "lon": 120.2583848,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210061,
+  "lat": 12.2984716,
+  "lon": 120.2580723,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210063,
+  "lat": 12.2988306,
+  "lon": 120.2542327,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210064,
+  "lat": 12.2991176,
+  "lon": 120.2637666,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210065,
+  "lat": 12.2991517,
+  "lon": 120.2632516,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210066,
+  "lat": 12.2991988,
+  "lon": 120.2634179,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210070,
+  "lat": 12.3001278,
+  "lon": 120.2519662,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210071,
+  "lat": 12.3285301,
+  "lon": 120.2727534,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054210893,
+  "lat": 12.3294525,
+  "lon": 120.2719862,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211105,
+  "lat": 12.3359299,
+  "lon": 120.2720828,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211106,
+  "lat": 12.3360688,
+  "lon": 120.2719031,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211107,
+  "lat": 12.3388921,
+  "lon": 120.2708235,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211129,
+  "lat": 12.3403542,
+  "lon": 120.2716121,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211150,
+  "lat": 12.3455789,
+  "lon": 120.2715611,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211156,
+  "lat": 12.3464907,
+  "lon": 120.2714994,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211158,
+  "lat": 12.3466348,
+  "lon": 120.2716309,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211159,
+  "lat": 12.3466741,
+  "lon": 120.2724194,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211167,
+  "lat": 12.3479344,
+  "lon": 120.2722639,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211173,
+  "lat": 12.3487100,
+  "lon": 120.2698016,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211180,
+  "lat": 12.3499965,
+  "lon": 120.2609208,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211390,
+  "lat": 12.3524293,
+  "lon": 120.2634729,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211391,
+  "lat": 12.3526035,
+  "lon": 120.2612024,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211392,
+  "lat": 12.3526441,
+  "lon": 120.2628265,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211393,
+  "lat": 12.3528184,
+  "lon": 120.2604970,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211394,
+  "lat": 12.3529258,
+  "lon": 120.2609583,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211395,
+  "lat": 12.3529795,
+  "lon": 120.2601684,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211398,
+  "lat": 12.3537930,
+  "lon": 120.2614599,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211399,
+  "lat": 12.3538887,
+  "lon": 120.2624161,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211400,
+  "lat": 12.3539345,
+  "lon": 120.2619078,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054211416,
+  "lat": 12.8105120,
+  "lon": 123.2646945,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054862977,
+  "lat": 12.6946361,
+  "lon": 123.3858070,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054862988,
+  "lat": 12.6952942,
+  "lon": 123.3743660,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054864990,
+  "lat": 12.6954617,
+  "lon": 123.3612473,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865037,
+  "lat": 12.7082646,
+  "lon": 123.3490915,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865038,
+  "lat": 12.7088271,
+  "lon": 123.3490942,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865044,
+  "lat": 12.7131338,
+  "lon": 123.3457736,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865046,
+  "lat": 12.7134426,
+  "lon": 123.3454545,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865047,
+  "lat": 12.7138769,
+  "lon": 123.3454464,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865052,
+  "lat": 12.7151145,
+  "lon": 123.3429949,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865054,
+  "lat": 12.7161270,
+  "lon": 123.3433436,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865055,
+  "lat": 12.7163311,
+  "lon": 123.3434991,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865088,
+  "lat": 12.7209831,
+  "lon": 123.3365616,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865275,
+  "lat": 12.7432415,
+  "lon": 123.3204590,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865346,
+  "lat": 12.7659571,
+  "lon": 123.3313963,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865363,
+  "lat": 12.7722352,
+  "lon": 123.3277646,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865424,
+  "lat": 12.7854854,
+  "lon": 123.3170867,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865433,
+  "lat": 12.7859589,
+  "lon": 123.3128556,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865436,
+  "lat": 12.7870417,
+  "lon": 123.3163330,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865440,
+  "lat": 12.7877166,
+  "lon": 123.3160970,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865448,
+  "lat": 12.7886373,
+  "lon": 123.3157403,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865451,
+  "lat": 12.7891081,
+  "lon": 123.3154747,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865453,
+  "lat": 12.7893854,
+  "lon": 123.3068434,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865456,
+  "lat": 12.7897189,
+  "lon": 123.3152588,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865552,
+  "lat": 12.8543625,
+  "lon": 123.2833204,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865555,
+  "lat": 12.8561146,
+  "lon": 123.2830469,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865557,
+  "lat": 12.8563813,
+  "lon": 123.2829610,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865580,
+  "lat": 12.8793985,
+  "lon": 123.2813048,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865581,
+  "lat": 12.8795946,
+  "lon": 123.2814872,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4054865584,
+  "lat": 12.8802640,
+  "lon": 123.2820156,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4058746767,
+  "lat": 13.0778362,
+  "lon": 123.0837822,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4058746769,
+  "lat": 13.0785599,
+  "lon": 123.0832055,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4058746776,
+  "lat": 13.0807989,
+  "lon": 123.0785385,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4058747826,
+  "lat": 13.1441349,
+  "lon": 122.9844788,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4058747833,
+  "lat": 13.1464543,
+  "lon": 122.9854793,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059253871,
+  "lat": 12.9757653,
+  "lon": 123.0660541,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582210,
+  "lat": 13.6330146,
+  "lon": 120.8792739,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582212,
+  "lat": 13.6332544,
+  "lon": 120.8783244,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582214,
+  "lat": 13.6334186,
+  "lon": 120.8773615,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582223,
+  "lat": 13.6398491,
+  "lon": 120.9465196,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582259,
+  "lat": 13.6450623,
+  "lon": 120.8564338,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582261,
+  "lat": 13.6451613,
+  "lon": 120.8562327,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582265,
+  "lat": 13.6465845,
+  "lon": 120.8553100,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582277,
+  "lat": 13.6507776,
+  "lon": 120.8420223,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582280,
+  "lat": 13.6512781,
+  "lon": 120.8422235,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582325,
+  "lat": 13.6668692,
+  "lon": 120.8380567,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582326,
+  "lat": 13.6669826,
+  "lon": 120.8379937,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582330,
+  "lat": 13.6687503,
+  "lon": 120.8378123,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582331,
+  "lat": 13.6688767,
+  "lon": 120.8375789,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582345,
+  "lat": 13.6733366,
+  "lon": 120.8361825,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582347,
+  "lat": 13.6735503,
+  "lon": 120.8361282,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582349,
+  "lat": 13.6743361,
+  "lon": 120.8358975,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582351,
+  "lat": 13.6743895,
+  "lon": 120.8357393,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582358,
+  "lat": 13.6753916,
+  "lon": 120.8356642,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582359,
+  "lat": 13.6753968,
+  "lon": 120.8355958,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582367,
+  "lat": 13.6772413,
+  "lon": 120.8312234,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582393,
+  "lat": 13.6840100,
+  "lon": 120.8307735,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582400,
+  "lat": 13.6858909,
+  "lon": 120.8273450,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582401,
+  "lat": 13.6858961,
+  "lon": 120.8270660,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582402,
+  "lat": 13.6860733,
+  "lon": 120.8265376,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582424,
+  "lat": 13.6874884,
+  "lon": 120.8279458,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582427,
+  "lat": 13.6879913,
+  "lon": 120.8310384,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582428,
+  "lat": 13.6881112,
+  "lon": 120.8291018,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582429,
+  "lat": 13.6881295,
+  "lon": 120.8294291,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582431,
+  "lat": 13.6885464,
+  "lon": 120.8291260,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582432,
+  "lat": 13.6886168,
+  "lon": 120.8300245,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582443,
+  "lat": 13.6918664,
+  "lon": 120.8415897,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4059582444,
+  "lat": 13.6920019,
+  "lon": 120.8415468,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860670,
+  "lat": 13.5283760,
+  "lon": 121.0770352,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860671,
+  "lat": 13.5292339,
+  "lon": 121.0756297,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860672,
+  "lat": 13.5294217,
+  "lon": 121.0753025,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860673,
+  "lat": 13.5299276,
+  "lon": 121.0743718,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860674,
+  "lat": 13.5304335,
+  "lon": 121.0740204,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860675,
+  "lat": 13.5306760,
+  "lon": 121.0943408,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860676,
+  "lat": 13.5312576,
+  "lon": 121.0735725,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860677,
+  "lat": 13.5320999,
+  "lon": 121.0731085,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860678,
+  "lat": 13.5327375,
+  "lon": 121.1033718,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860679,
+  "lat": 13.5328418,
+  "lon": 121.1035489,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860680,
+  "lat": 13.5329330,
+  "lon": 121.1033370,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860684,
+  "lat": 13.5342265,
+  "lon": 121.0994692,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062860687,
+  "lat": 13.5351822,
+  "lon": 121.0989509,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865808,
+  "lat": 13.5446167,
+  "lon": 121.0964672,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865809,
+  "lat": 13.5448827,
+  "lon": 121.0963384,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865810,
+  "lat": 13.5502778,
+  "lon": 121.0559075,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865811,
+  "lat": 13.5506376,
+  "lon": 121.0557519,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865812,
+  "lat": 13.5552673,
+  "lon": 121.0501675,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865813,
+  "lat": 13.5556558,
+  "lon": 121.0500254,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865814,
+  "lat": 13.5560495,
+  "lon": 121.0499342,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865815,
+  "lat": 13.5565371,
+  "lon": 121.0485368,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865823,
+  "lat": 13.5578989,
+  "lon": 121.0442566,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865824,
+  "lat": 13.5582065,
+  "lon": 121.0442057,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865825,
+  "lat": 13.5587672,
+  "lon": 121.0437148,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865838,
+  "lat": 13.5592958,
+  "lon": 121.0439710,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865839,
+  "lat": 13.5615415,
+  "lon": 121.0437765,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865840,
+  "lat": 13.5618257,
+  "lon": 121.0433688,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865841,
+  "lat": 13.5619378,
+  "lon": 121.0436746,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865842,
+  "lat": 13.5621620,
+  "lon": 121.0434520,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865844,
+  "lat": 13.5630779,
+  "lon": 121.0628162,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865859,
+  "lat": 13.5646580,
+  "lon": 121.0691837,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865861,
+  "lat": 13.5652414,
+  "lon": 121.0435431,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865863,
+  "lat": 13.5658202,
+  "lon": 121.0437819,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865864,
+  "lat": 13.5658411,
+  "lon": 121.0434493,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865865,
+  "lat": 13.5659838,
+  "lon": 121.0919805,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865866,
+  "lat": 13.5664329,
+  "lon": 121.0435029,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865867,
+  "lat": 13.5667067,
+  "lon": 121.0435110,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865868,
+  "lat": 13.5667876,
+  "lon": 121.0434466,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865869,
+  "lat": 13.5677601,
+  "lon": 121.0433956,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865870,
+  "lat": 13.5682737,
+  "lon": 121.0430148,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865871,
+  "lat": 13.5684980,
+  "lon": 121.0427358,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865872,
+  "lat": 13.5689015,
+  "lon": 121.0469978,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865873,
+  "lat": 13.5696895,
+  "lon": 121.0425910,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865874,
+  "lat": 13.5696967,
+  "lon": 121.0466646,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865875,
+  "lat": 13.5704509,
+  "lon": 121.0459464,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865876,
+  "lat": 13.5708055,
+  "lon": 121.0424649,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865889,
+  "lat": 13.5731781,
+  "lon": 121.0448252,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062865893,
+  "lat": 13.5734206,
+  "lon": 121.0439616,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885037,
+  "lat": 13.5037969,
+  "lon": 120.9731385,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885057,
+  "lat": 13.5044959,
+  "lon": 120.9726450,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885062,
+  "lat": 13.5076516,
+  "lon": 120.9390195,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885065,
+  "lat": 13.5083558,
+  "lon": 120.9400602,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885097,
+  "lat": 13.5221987,
+  "lon": 120.9938103,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885098,
+  "lat": 13.5229002,
+  "lon": 120.9926033,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885099,
+  "lat": 13.5238834,
+  "lon": 120.9477715,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885101,
+  "lat": 13.5244414,
+  "lon": 120.9477769,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885103,
+  "lat": 13.5248209,
+  "lon": 120.9577829,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885104,
+  "lat": 13.5256436,
+  "lon": 120.9694854,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885105,
+  "lat": 13.5266503,
+  "lon": 120.9665537,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062885106,
+  "lat": 13.5287274,
+  "lon": 120.9552160,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062896394,
+  "lat": 13.4441432,
+  "lon": 121.2229595,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4062896395,
+  "lat": 13.4445919,
+  "lon": 121.2222943,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4084336972,
+  "lat": 12.1860760,
+  "lon": 120.2389946,
+  "tags": {
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4084336973,
+  "lat": 12.1861303,
+  "lon": 120.2389132,
+  "tags": {
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4084337002,
+  "lat": 12.1894797,
+  "lon": 120.2405084,
+  "tags": {
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4084337009,
+  "lat": 12.1906104,
+  "lon": 120.2407389,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4084337010,
+  "lat": 12.1906300,
+  "lon": 120.2408029,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4084337076,
+  "lat": 12.1970519,
+  "lon": 120.2418481,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4084337097,
+  "lat": 12.1972734,
+  "lon": 120.2418175,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4084337204,
+  "lat": 12.2002068,
+  "lon": 120.2427770,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4084337205,
+  "lat": 12.2004453,
+  "lon": 120.2426643,
+  "tags": {
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4084337206,
+  "lat": 12.2019437,
+  "lon": 120.2426320,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4084337207,
+  "lat": 12.2021088,
+  "lon": 120.2425245,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105493165,
+  "lat": 18.8120628,
+  "lon": 121.8528521,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105493167,
+  "lat": 18.8122152,
+  "lon": 121.8522835,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105493168,
+  "lat": 18.8125097,
+  "lon": 121.8520367,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105493176,
+  "lat": 18.8202786,
+  "lon": 121.8376064,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105493178,
+  "lat": 18.8207864,
+  "lon": 121.8374348,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105493179,
+  "lat": 18.8215886,
+  "lon": 121.8368876,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496799,
+  "lat": 18.8493403,
+  "lon": 121.8815732,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496802,
+  "lat": 18.8574680,
+  "lon": 121.8271351,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496804,
+  "lat": 18.8589198,
+  "lon": 121.8262339,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496811,
+  "lat": 18.8688047,
+  "lon": 121.8226236,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496818,
+  "lat": 18.8740317,
+  "lon": 121.9037819,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496822,
+  "lat": 18.8765291,
+  "lon": 121.9188881,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496823,
+  "lat": 18.8767144,
+  "lon": 121.8229032,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496824,
+  "lat": 18.8770164,
+  "lon": 121.9187164,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496825,
+  "lat": 18.8794122,
+  "lon": 121.9209480,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496826,
+  "lat": 18.8796355,
+  "lon": 121.9225573,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496829,
+  "lat": 18.8915937,
+  "lon": 121.9372988,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496830,
+  "lat": 18.8921216,
+  "lon": 121.9382214,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496833,
+  "lat": 18.8985774,
+  "lon": 121.9460964,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496834,
+  "lat": 18.8992879,
+  "lon": 121.9486713,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496835,
+  "lat": 18.9011556,
+  "lon": 121.9509673,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496836,
+  "lat": 18.9054593,
+  "lon": 121.9547868,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496838,
+  "lat": 18.9115898,
+  "lon": 121.9572544,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496843,
+  "lat": 18.9145738,
+  "lon": 121.9587350,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496845,
+  "lat": 18.9169894,
+  "lon": 121.9576192,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496855,
+  "lat": 18.9242156,
+  "lon": 121.9511604,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496878,
+  "lat": 19.0029273,
+  "lon": 121.9453347,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496895,
+  "lat": 19.2562049,
+  "lon": 121.4520040,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496896,
+  "lat": 19.2739796,
+  "lon": 121.5431428,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496897,
+  "lat": 19.2776458,
+  "lon": 121.5423488,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496898,
+  "lat": 19.2847549,
+  "lon": 121.5430784,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496899,
+  "lat": 19.3919680,
+  "lon": 121.3913029,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496902,
+  "lat": 19.4728790,
+  "lon": 121.9708827,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496903,
+  "lat": 19.4744266,
+  "lon": 121.9676748,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496904,
+  "lat": 19.4758630,
+  "lon": 121.9687584,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496905,
+  "lat": 19.4760147,
+  "lon": 121.9671276,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496906,
+  "lat": 19.4761487,
+  "lon": 121.9551140,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496910,
+  "lat": 19.4898109,
+  "lon": 121.9783392,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496915,
+  "lat": 19.5054895,
+  "lon": 121.9172197,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496917,
+  "lat": 19.5087256,
+  "lon": 121.9143229,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496933,
+  "lat": 19.5443393,
+  "lon": 121.8928545,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496936,
+  "lat": 19.5458458,
+  "lon": 121.8943244,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496946,
+  "lat": 19.5539341,
+  "lon": 121.9177025,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496948,
+  "lat": 19.5542576,
+  "lon": 121.9221872,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496964,
+  "lat": 19.5710293,
+  "lon": 121.9600707,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496965,
+  "lat": 20.2642354,
+  "lon": 121.8530264,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496966,
+  "lat": 20.3770607,
+  "lon": 121.9764295,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496967,
+  "lat": 20.4220209,
+  "lon": 121.9832316,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496968,
+  "lat": 20.4231269,
+  "lon": 121.9829741,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496969,
+  "lat": 20.4250674,
+  "lon": 121.9841328,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496970,
+  "lat": 20.4266057,
+  "lon": 121.9873515,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496971,
+  "lat": 20.4273698,
+  "lon": 121.9861498,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496974,
+  "lat": 20.6964941,
+  "lon": 121.9380953,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496975,
+  "lat": 20.6978992,
+  "lon": 121.9371727,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496998,
+  "lat": 22.0001003,
+  "lon": 121.5874958,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105496999,
+  "lat": 22.0001600,
+  "lon": 121.5868735,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497000,
+  "lat": 22.0011858,
+  "lon": 121.5844112,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497001,
+  "lat": 22.0013835,
+  "lon": 121.5977955,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497002,
+  "lat": 22.0175038,
+  "lon": 121.6008317,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497003,
+  "lat": 22.0181005,
+  "lon": 121.6007352,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497004,
+  "lat": 22.0189398,
+  "lon": 121.6009176,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497005,
+  "lat": 22.0193898,
+  "lon": 121.5331354,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497006,
+  "lat": 22.0198449,
+  "lon": 121.6009497,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497007,
+  "lat": 22.0211098,
+  "lon": 121.6007825,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497031,
+  "lat": 22.0238034,
+  "lon": 121.5992009,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497039,
+  "lat": 22.0241503,
+  "lon": 121.5385750,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497040,
+  "lat": 22.0241577,
+  "lon": 121.5508783,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497041,
+  "lat": 22.0242622,
+  "lon": 121.5385911,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497042,
+  "lat": 22.0243169,
+  "lon": 121.5507012,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497043,
+  "lat": 22.0251722,
+  "lon": 121.5437811,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497044,
+  "lat": 22.0251871,
+  "lon": 121.5473163,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497045,
+  "lat": 22.0253711,
+  "lon": 121.5461683,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497046,
+  "lat": 22.0255253,
+  "lon": 121.5479332,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497047,
+  "lat": 22.0295719,
+  "lon": 121.5906930,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497048,
+  "lat": 22.0559475,
+  "lon": 121.5675750,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497065,
+  "lat": 22.0568225,
+  "lon": 121.5686801,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497076,
+  "lat": 22.0576827,
+  "lon": 121.5678271,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497077,
+  "lat": 22.0580506,
+  "lon": 121.5700963,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497079,
+  "lat": 22.0596067,
+  "lon": 121.5751335,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497080,
+  "lat": 22.0602580,
+  "lon": 121.5741947,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497081,
+  "lat": 22.0604072,
+  "lon": 121.5734544,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497082,
+  "lat": 22.0679030,
+  "lon": 121.5697503,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497083,
+  "lat": 22.0690166,
+  "lon": 121.5695357,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497084,
+  "lat": 22.0693149,
+  "lon": 121.5693319,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497085,
+  "lat": 22.0798004,
+  "lon": 121.5736851,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497086,
+  "lat": 22.0820671,
+  "lon": 121.5767321,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497087,
+  "lat": 22.0820870,
+  "lon": 121.5174660,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497088,
+  "lat": 22.0824051,
+  "lon": 121.5291390,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497289,
+  "lat": 22.0834987,
+  "lon": 121.5255770,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497290,
+  "lat": 22.0854871,
+  "lon": 121.5701231,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497291,
+  "lat": 22.0860239,
+  "lon": 121.5050474,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497292,
+  "lat": 22.0867596,
+  "lon": 121.5048757,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4105497293,
+  "lat": 22.0877176,
+  "lon": 121.5057562,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207249,
+  "lat": 18.0919105,
+  "lon": 122.1724695,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207250,
+  "lat": 18.0929099,
+  "lon": 122.1734566,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207251,
+  "lat": 18.0941541,
+  "lon": 122.1738857,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207252,
+  "lat": 18.0975960,
+  "lon": 122.1755098,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207253,
+  "lat": 18.0976827,
+  "lon": 122.1750873,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207256,
+  "lat": 18.1155080,
+  "lon": 122.1857089,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207257,
+  "lat": 18.1155896,
+  "lon": 122.1909875,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207258,
+  "lat": 18.1157068,
+  "lon": 122.1904886,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207260,
+  "lat": 18.1164665,
+  "lon": 122.1933478,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207261,
+  "lat": 18.1164869,
+  "lon": 122.1854299,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207262,
+  "lat": 18.1166909,
+  "lon": 122.1943134,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207265,
+  "lat": 18.1174174,
+  "lon": 122.1882342,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207267,
+  "lat": 18.1175601,
+  "lon": 122.1863084,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207275,
+  "lat": 18.1188934,
+  "lon": 122.1965021,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207280,
+  "lat": 18.1206472,
+  "lon": 122.1978539,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207284,
+  "lat": 18.1212998,
+  "lon": 122.1984333,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207592,
+  "lat": 18.1314274,
+  "lon": 122.2030078,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207593,
+  "lat": 18.1314325,
+  "lon": 122.2025518,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207594,
+  "lat": 18.1316058,
+  "lon": 122.2018652,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207595,
+  "lat": 18.1316262,
+  "lon": 122.2014360,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207596,
+  "lat": 18.1323195,
+  "lon": 122.2036408,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207597,
+  "lat": 18.1324266,
+  "lon": 122.2040699,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207598,
+  "lat": 18.1336782,
+  "lon": 122.2061795,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207602,
+  "lat": 18.1345550,
+  "lon": 122.2065014,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207604,
+  "lat": 18.1351668,
+  "lon": 122.2068232,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207612,
+  "lat": 18.1385518,
+  "lon": 122.2078317,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207613,
+  "lat": 18.1388576,
+  "lon": 122.2068018,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207615,
+  "lat": 18.1406725,
+  "lon": 122.2084540,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207616,
+  "lat": 18.1407132,
+  "lon": 122.2091836,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207617,
+  "lat": 18.1408764,
+  "lon": 122.2096771,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207618,
+  "lat": 18.1444652,
+  "lon": 122.2144622,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207619,
+  "lat": 18.1448730,
+  "lon": 122.2155565,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207624,
+  "lat": 18.1523358,
+  "lon": 122.2200626,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207627,
+  "lat": 18.1535592,
+  "lon": 122.2255772,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207628,
+  "lat": 18.1543136,
+  "lon": 122.2283238,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207629,
+  "lat": 18.1546602,
+  "lon": 122.2271222,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207630,
+  "lat": 18.1547214,
+  "lon": 122.2291607,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207633,
+  "lat": 18.1553942,
+  "lon": 122.2298688,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207634,
+  "lat": 18.1553942,
+  "lon": 122.2304910,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207637,
+  "lat": 18.1577798,
+  "lon": 122.2298902,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207638,
+  "lat": 18.1579021,
+  "lon": 122.2303623,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207639,
+  "lat": 18.1580040,
+  "lon": 122.2312635,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207641,
+  "lat": 18.1582487,
+  "lon": 122.2368211,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207642,
+  "lat": 18.1586973,
+  "lon": 122.2361773,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207643,
+  "lat": 18.1590439,
+  "lon": 122.2331518,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207645,
+  "lat": 18.1596352,
+  "lon": 122.2424644,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207646,
+  "lat": 18.1597983,
+  "lon": 122.2413486,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207648,
+  "lat": 18.1604099,
+  "lon": 122.2416920,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207649,
+  "lat": 18.1620207,
+  "lon": 122.2510260,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207650,
+  "lat": 18.1620818,
+  "lon": 122.2475714,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207651,
+  "lat": 18.1628362,
+  "lon": 122.2520131,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207652,
+  "lat": 18.1653644,
+  "lon": 122.2603816,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207653,
+  "lat": 18.1668731,
+  "lon": 122.2601455,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207654,
+  "lat": 18.1747223,
+  "lon": 122.2672051,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207655,
+  "lat": 18.1752728,
+  "lon": 122.2673982,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207656,
+  "lat": 18.1821023,
+  "lon": 122.2667545,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207657,
+  "lat": 18.1862610,
+  "lon": 122.2680420,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207658,
+  "lat": 18.1870561,
+  "lon": 122.2693294,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207659,
+  "lat": 18.1973710,
+  "lon": 122.2823972,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207660,
+  "lat": 18.1975952,
+  "lon": 122.2843713,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207661,
+  "lat": 18.1976563,
+  "lon": 122.2859377,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207662,
+  "lat": 18.1988182,
+  "lon": 122.2873753,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207663,
+  "lat": 18.1999801,
+  "lon": 122.2884911,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207664,
+  "lat": 18.2013867,
+  "lon": 122.2892207,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207665,
+  "lat": 18.2023447,
+  "lon": 122.2917742,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207666,
+  "lat": 18.2030377,
+  "lon": 122.2918600,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207667,
+  "lat": 18.2091528,
+  "lon": 122.2927398,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207668,
+  "lat": 18.2094993,
+  "lon": 122.2931045,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207669,
+  "lat": 18.2101719,
+  "lon": 122.2938126,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207670,
+  "lat": 18.2110076,
+  "lon": 122.2964090,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207671,
+  "lat": 18.2280265,
+  "lon": 122.3051208,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207672,
+  "lat": 18.2368309,
+  "lon": 122.3080176,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207673,
+  "lat": 18.2374626,
+  "lon": 122.3083180,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207802,
+  "lat": 18.2483629,
+  "lon": 122.3275897,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207805,
+  "lat": 18.2519826,
+  "lon": 122.3202485,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207808,
+  "lat": 18.2544433,
+  "lon": 122.3210049,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207810,
+  "lat": 18.2550291,
+  "lon": 122.3215950,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207812,
+  "lat": 18.2555742,
+  "lon": 122.3217237,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207813,
+  "lat": 18.2567001,
+  "lon": 122.3223621,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207815,
+  "lat": 18.2573522,
+  "lon": 122.3227483,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207819,
+  "lat": 18.2669905,
+  "lon": 122.3274905,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207820,
+  "lat": 18.2712745,
+  "lon": 122.3312563,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207821,
+  "lat": 18.2723188,
+  "lon": 122.3312563,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207823,
+  "lat": 18.2740660,
+  "lon": 122.3323131,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207824,
+  "lat": 18.2745143,
+  "lon": 122.3327100,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207825,
+  "lat": 18.2749778,
+  "lon": 122.3319429,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207829,
+  "lat": 18.2763328,
+  "lon": 122.3327744,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207831,
+  "lat": 18.2791242,
+  "lon": 122.3325867,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207832,
+  "lat": 18.2807185,
+  "lon": 122.3332089,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207857,
+  "lat": 18.2978630,
+  "lon": 122.3330265,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207860,
+  "lat": 18.3013874,
+  "lon": 122.3340887,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207861,
+  "lat": 18.3058693,
+  "lon": 122.3360843,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207862,
+  "lat": 18.3073055,
+  "lon": 122.3379403,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207863,
+  "lat": 18.3081509,
+  "lon": 122.3392600,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207864,
+  "lat": 18.3099537,
+  "lon": 122.3387182,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207865,
+  "lat": 18.3111404,
+  "lon": 122.3394048,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116207866,
+  "lat": 18.3131367,
+  "lon": 122.3381549,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116221957,
+  "lat": 18.8837976,
+  "lon": 121.2719755,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116221985,
+  "lat": 18.8891777,
+  "lon": 121.2515773,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116221986,
+  "lat": 18.9867792,
+  "lon": 121.2193100,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4116221987,
+  "lat": 18.9875075,
+  "lon": 121.2172906,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4552514853,
+  "lat": 24.9422873,
+  "lon": 121.3680120,
+  "tags": {
+    "direction": "both",
+    "distance": "止",
+    "name": "心湖大橋",
+    "seamark:type": "rock",
+    "waterway": "milestone"
+  }
+},
+{
+  "type": "node",
+  "id": 4690206227,
+  "lat": 10.1964831,
+  "lon": 97.8752173,
+  "tags": {
+    "natural": "bare_rock",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4750496850,
+  "lat": -8.5308250,
+  "lon": 115.5848242,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 4750496851,
+  "lat": -8.5306711,
+  "lon": 115.5854036,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705111,
+  "lat": 15.2435600,
+  "lon": 97.7354479,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705112,
+  "lat": 15.2104640,
+  "lon": 97.7352923,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705113,
+  "lat": 15.1955190,
+  "lon": 97.7300030,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705114,
+  "lat": 15.1928063,
+  "lon": 97.7360541,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705115,
+  "lat": 15.1942869,
+  "lon": 97.7670336,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705116,
+  "lat": 15.1941523,
+  "lon": 97.7675539,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705117,
+  "lat": 15.1077374,
+  "lon": 97.8021168,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705118,
+  "lat": 15.0978764,
+  "lon": 97.7907443,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705119,
+  "lat": 15.0977521,
+  "lon": 97.7889204,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705120,
+  "lat": 15.0986015,
+  "lon": 97.7973318,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705721,
+  "lat": 15.0970270,
+  "lon": 97.7966881,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705722,
+  "lat": 15.0915990,
+  "lon": 97.7936625,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705723,
+  "lat": 15.0723100,
+  "lon": 97.7945208,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705724,
+  "lat": 15.0719785,
+  "lon": 97.7932334,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705725,
+  "lat": 15.0256032,
+  "lon": 97.7775264,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705726,
+  "lat": 15.0233650,
+  "lon": 97.7735138,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705727,
+  "lat": 14.9897890,
+  "lon": 97.7893281,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705728,
+  "lat": 14.9888978,
+  "lon": 97.7894568,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705729,
+  "lat": 14.9378811,
+  "lon": 97.7821398,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705730,
+  "lat": 14.9396019,
+  "lon": 97.7860665,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705731,
+  "lat": 14.9346779,
+  "lon": 97.7843070,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705732,
+  "lat": 14.9344498,
+  "lon": 97.7849936,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705733,
+  "lat": 14.9326668,
+  "lon": 97.7866351,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705734,
+  "lat": 14.9293391,
+  "lon": 97.7859163,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705735,
+  "lat": 14.9271206,
+  "lon": 97.7831483,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705736,
+  "lat": 14.9282817,
+  "lon": 97.7840495,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705737,
+  "lat": 14.9290385,
+  "lon": 97.7850258,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058705738,
+  "lat": 14.9278463,
+  "lon": 97.7836311,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058706499,
+  "lat": 15.3095706,
+  "lon": 97.7017271,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058706500,
+  "lat": 15.2974422,
+  "lon": 97.7084649,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058716909,
+  "lat": 15.6869124,
+  "lon": 97.7049726,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717929,
+  "lat": 15.6834211,
+  "lon": 97.7075636,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717930,
+  "lat": 15.4886995,
+  "lon": 97.6565185,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717931,
+  "lat": 15.4886995,
+  "lon": 97.6573822,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717932,
+  "lat": 15.4894051,
+  "lon": 97.6572481,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717933,
+  "lat": 15.4890846,
+  "lon": 97.6578543,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717934,
+  "lat": 15.4889063,
+  "lon": 97.6567465,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717935,
+  "lat": 15.4940474,
+  "lon": 97.6590800,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717936,
+  "lat": 15.4944997,
+  "lon": 97.6611802,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717937,
+  "lat": 15.5010855,
+  "lon": 97.6589110,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717938,
+  "lat": 15.5001757,
+  "lon": 97.6591417,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717939,
+  "lat": 15.5104649,
+  "lon": 97.6488662,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717976,
+  "lat": 15.5008296,
+  "lon": 97.7258348,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5058717977,
+  "lat": 15.4978107,
+  "lon": 97.7299118,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5774286125,
+  "lat": 22.3428167,
+  "lon": 113.8882333,
+  "tags": {
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 5774286126,
+  "lat": 22.3540333,
+  "lon": 113.8870667,
+  "tags": {
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 5774286131,
+  "lat": 22.3561167,
+  "lon": 113.8722667,
+  "tags": {
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 6195648245,
+  "lat": 22.3002667,
+  "lon": 114.3400000,
+  "tags": {
+    "seamark:obstruction:category": "fish_haven",
+    "seamark:type": "obstruction",
+    "source": "https://www.hydro.gov.hk/ntm/notice/2007-24.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 6787926414,
+  "lat": 2.1592559,
+  "lon": 104.2044246,
+  "tags": {
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 6815961588,
+  "lat": 4.2090186,
+  "lon": 100.5844892,
+  "tags": {
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "red",
+    "seamark:light:height": "5",
+    "seamark:light:period": "6",
+    "seamark:light:range": "5",
+    "seamark:light:reference": "F 1560.2",
+    "seamark:light:sequence": "0.5+(5.5)",
+    "seamark:name": "Hospital Rock",
+    "seamark:type": "rock",
+    "source": "NGA Pub. 112 2019"
+  }
+},
+{
+  "type": "node",
+  "id": 7287821735,
+  "lat": 22.2834167,
+  "lon": 114.1749500,
+  "tags": {
+    "seamark:obstruction:water_level": "submerged",
+    "seamark:type": "obstruction"
+  }
+},
+{
+  "type": "node",
+  "id": 7677337983,
+  "lat": 22.2130333,
+  "lon": 114.1762000,
+  "tags": {
+    "depth": "21",
+    "seamark:obstruction:water_level": "submerged",
+    "seamark:type": "obstruction"
+  }
+},
+{
+  "type": "node",
+  "id": 7693742270,
+  "lat": 20.1010833,
+  "lon": 111.1943611,
+  "tags": {
+    "seamark:type": "obstruction",
+    "source": "China MSA Notice No. 787/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 7731646182,
+  "lat": 20.2141944,
+  "lon": 110.2473056,
+  "tags": {
+    "seamark:type": "obstruction",
+    "source": "China MSA Notice No. 885/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 8041808956,
+  "lat": 22.3747333,
+  "lon": 113.8806167,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 8071735309,
+  "lat": 22.3408833,
+  "lon": 114.0386333,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 8071735310,
+  "lat": 22.3206167,
+  "lon": 114.0572333,
+  "tags": {
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 8071735311,
+  "lat": 22.2952167,
+  "lon": 114.0262500,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 8071735312,
+  "lat": 22.2786833,
+  "lon": 114.0262833,
+  "tags": {
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 8456763327,
+  "lat": 6.1215067,
+  "lon": 118.0429633,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 8458073092,
+  "lat": 7.0458893,
+  "lon": 117.0857030,
+  "tags": {
+    "GNS:id": "-2386382",
+    "name": "Batuan Naruntong",
+    "name:en": "Pearson Rock",
+    "seamark:rock:water_level": "submerged",
+    "seamark:type": "rock",
+    "source:name": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 8755290365,
+  "lat": 2.2852381,
+  "lon": 102.0898640,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 8757546936,
+  "lat": 2.2707871,
+  "lon": 102.0926736,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 8971312443,
+  "lat": 22.1785667,
+  "lon": 113.9086667,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock",
+    "source": "eSeaGo"
+  }
+},
+{
+  "type": "node",
+  "id": 9010468307,
+  "lat": 5.3167927,
+  "lon": 103.1622407,
+  "tags": {
+    "GNS:id": "-2360062",
+    "name": "Batu Buruk",
+    "name:ms": "Batu Buruk",
+    "natural": "shoal",
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 9880856914,
+  "lat": 12.1605353,
+  "lon": 125.5265048,
+  "tags": {
+    "description": "Apiton Island Rock Formations, a great place for swimming with natural occurring pools.",
+    "name": "Apiton Island Rock Formation",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 9994753506,
+  "lat": 22.3259500,
+  "lon": 114.3786000,
+  "tags": {
+    "seamark:type": "rock",
+    "source": "https://www.hydro.gov.hk/ntm/notice/2016-9.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 9994771942,
+  "lat": 22.3419500,
+  "lon": 114.2937500,
+  "tags": {
+    "seamark:type": "rock",
+    "source": "https://www.hydro.gov.hk/ntm/notice/2016-5.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 9994820631,
+  "lat": 22.3736333,
+  "lon": 113.9839000,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock",
+    "source": "https://www.hydro.gov.hk/ntm/notice/2008-19.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 10548206102,
+  "lat": 18.9323040,
+  "lon": 121.9794215,
+  "tags": {
+    "natural": "rock",
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12294184912,
+  "lat": 3.8001347,
+  "lon": 125.7634270,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12294184913,
+  "lat": 3.8022210,
+  "lon": 125.7624126,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12294184914,
+  "lat": 3.8036789,
+  "lon": 125.7596408,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12294184915,
+  "lat": 3.8102188,
+  "lon": 125.7580654,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12294203940,
+  "lat": 3.8253828,
+  "lon": 125.7574189,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12294203967,
+  "lat": 3.8223226,
+  "lon": 125.7578904,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12294583653,
+  "lat": 3.8415073,
+  "lon": 125.7579560,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12373770355,
+  "lat": 1.6774499,
+  "lon": 125.1795249,
+  "tags": {
+    "GNS:dsg_code": "RK",
+    "GNS:id": "-2690695",
+    "GNS:modify_date": "2023-05-09",
+    "name": "Batu Pandita",
+    "name:en": "Pandita Rock",
+    "natural": "rock",
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12519616982,
+  "lat": 22.4622469,
+  "lon": 114.2099802,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12519642941,
+  "lat": 22.4670857,
+  "lon": 114.2172547,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12521891054,
+  "lat": 22.4584966,
+  "lon": 114.2006426,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12521891055,
+  "lat": 22.4554789,
+  "lon": 114.2176798,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12521891056,
+  "lat": 22.4549570,
+  "lon": 114.2173229,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12521891057,
+  "lat": 22.4548555,
+  "lon": 114.2174680,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12521891058,
+  "lat": 22.4632159,
+  "lon": 114.2216238,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12525728413,
+  "lat": 22.4832141,
+  "lon": 114.3327650,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12559078642,
+  "lat": 1.1614383,
+  "lon": 104.1508882,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12638025867,
+  "lat": 22.4489324,
+  "lon": 114.3516137,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12878500393,
+  "lat": 1.3919816,
+  "lon": 103.9875688,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12878500394,
+  "lat": 1.3919125,
+  "lon": 103.9877643,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12878500395,
+  "lat": 1.3919309,
+  "lon": 103.9877219,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12878500396,
+  "lat": 1.3919000,
+  "lon": 103.9876889,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12878500397,
+  "lat": 1.3919008,
+  "lon": 103.9877280,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12878500400,
+  "lat": 1.3928507,
+  "lon": 103.9853661,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12878591801,
+  "lat": 1.3927807,
+  "lon": 103.9853386,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 12878591802,
+  "lat": 1.3927221,
+  "lon": 103.9853138,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 13086764557,
+  "lat": -3.0969358,
+  "lon": 106.6082114,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 13086764558,
+  "lat": -3.0975465,
+  "lon": 106.6099548,
+  "tags": {
+    "seamark:rock:water_level": "covers",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 13086764575,
+  "lat": -3.0900526,
+  "lon": 106.6100675,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 13093031806,
+  "lat": 2.1312396,
+  "lon": 97.2504348,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 13100300658,
+  "lat": 5.7672154,
+  "lon": 95.3310899,
+  "tags": {
+    "seamark:rock:water_level": "awash",
+    "seamark:type": "rock"
+  }
+}
+
+  ]
+}

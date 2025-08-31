@@ -1,0 +1,17 @@
+[
+  {"name": "Port of Singapore", "lat": 1.264, "lon": 103.822},
+  {"name": "Port of Tanjung Priok (Jakarta)", "lat": -6.116, "lon": 106.813},
+  {"name": "Port of Port Klang (Malaysia)", "lat": 3.0, "lon": 101.4},
+  {"name": "Port of Bangkok (Thailand)", "lat": 13.675, "lon": 100.598},
+  {"name": "Port of Ho Chi Minh City (Vietnam)", "lat": 10.756, "lon": 106.705},
+  {"name": "Port of Manila (Philippines)", "lat": 14.576, "lon": 120.966},
+  {"name": "Port of Surabaya (Indonesia)", "lat": -7.249, "lon": 112.740},
+  {"name": "Port of Yangon (Myanmar)", "lat": 16.798, "lon": 96.149},
+  {"name": "Port of Pattani (Thailand)", "lat": 6.833, "lon": 101.25},
+  {"name": "Port of Balikpapan (Indonesia)", "lat": -1.27, "lon": 116.8},
+  {"name": "Port of Brunei", "lat": 4.890, "lon": 114.940},
+  {"name": "Port of Batam (Indonesia)", "lat": 1.116, "lon": 104.116},
+  {"name": "Port of Cebu (Philippines)", "lat": 10.308, "lon": 123.905},
+  {"name": "Port of Davao (Philippines)", "lat": 7.065, "lon": 125.607},
+  {"name": "Port of Ho Chi Minh Deep Sea", "lat": 10.7, "lon": 106.716}
+]

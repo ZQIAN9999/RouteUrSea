@@ -1,0 +1,11 @@
+[
+  {"lat": 5.12, "lon": 101.75, "name": "Rock-1"},
+  {"lat": 3.45, "lon": 104.88, "name": "Rock-2"},
+  {"lat": 12.32, "lon": 110.12, "name": "Rock-3"},
+  {"lat": 6.75, "lon": 102.5, "name": "Rock-4"},
+  {"lat": -2.5, "lon": 117.5, "name": "Rock-5"},
+  {"lat": 1.8, "lon": 104.9, "name": "Rock-6"},
+  {"lat": 8.0, "lon": 98.7, "name": "Rock-7"},
+  {"lat": 10.0, "lon": 119.0, "name": "Rock-8"},
+  {"lat": 11.5, "lon": 121.5, "name": "Rock-9"}
+]

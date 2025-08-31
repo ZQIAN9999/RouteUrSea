@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>RouteUrSea — Emissions Dashboard (Module 3)</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="container">
+        <h1>RouteUrSea <span class="sub">— Emissions & Sustainability</span></h1>
+        <nav class="nav-links">
+            <a href="/static/home.html">Home</a>
+            <a href="/static/emissions.html"  class="active">Emissions</a>
+            <a href="/route">Route Selection</a>
+        </nav>
+      </div>
+    </header>
+
+  <main class="container">
+    <section class="card" id="input-card">
+      <h2>Voyage Input</h2>
+      <form id="calc-form">
+        <label>Vessel Type
+          <select id="vessel_type">
+            <option value="small_coastal">Small Coastal</option>
+            <option value="medium_cargo" selected>Medium Cargo</option>
+            <option value="large_container">Large Container</option>
+          </select>
+        </label>
+
+        <label>Speed (knots)
+          <input type="number" id="speed_knots" value="12" step="0.1" min="1" />
+        </label>
+
+        <label>Distance (NM)
+          <input type="number" id="distance_nm" value="100" step="0.1" min="0.1" />
+        </label>
+
+        <label>Fuel Type
+          <select id="fuel_type">
+            <option value="HFO">HFO</option>
+            <option value="MDO" selected>MDO</option>
+            <option value="LNG">LNG</option>
+          </select>
+        </label>
+
+        <label>Weather Resistance (1 = calm)
+          <input type="number" id="weather_res" value="1.0" step="0.1" min="0.5" />
+        </label>
+
+        <div class="form-actions">
+          <button type="submit" id="calc-btn" class="btn primary">Calculate</button>
+          <button type="button" id="use-module1" class="btn">Load inputs from Module 1</button>
+        </div>
+      </form>
+    </section>
+
+    <section class="card" id="results-card" aria-live="polite">
+      <h2>Dashboard • Results</h2>
+      <div id="summary" class="summary-grid"></div>
+      <div id="marpol-results" class="summary-grid"></div>
+      <div id="marpol-summary" class="summary-card" style="margin-top: 1em;"></div>
+
+
+
+      <h3>Comparison (Eco / Balanced / Fastest)</h3>
+      <div id="comparison-table" class="table-wrapper"></div>
+
+      <h3>What-If Simulator</h3>
+      <div id="simulator" class="sim-grid">
+        <label>Speed (knots) <input id="sim-speed" type="range" min="4" max="30" step="0.1" value="12"></label>
+        <label>Fuel Type
+          <select id="sim-fuel">
+            <option value="HFO">HFO</option>
+            <option value="MDO" selected>MDO</option>
+            <option value="LNG">LNG</option>
+          </select>
+        </label>
+        <label>Weather Resistance <input id="sim-weather" type="range" min="0.8" max="2.0" step="0.1" value="1.0"></label>
+        <button id="sim-run" class="btn">Simulate</button>
+      </div>
+
+      <h3>History</h3>
+      <div id="history" class="history-list"></div>
+
+      <div class="actions-row">
+        <button id="export-json" class="btn">Export JSON</button>
+        <button id="clear-history" class="btn danger">Clear History</button>
+      </div>
+    </section>
+
+    <!-- Weather & Ocean Data Integration -->
+    <section class="card" id="weather-card">
+      <h2>🌦 Weather & Ocean Conditions</h2>
+      <form id="weather-form">
+        <label>Sea Area
+          <select id="sea_area">
+            <!-- Seas / basins -->
+            <option value="1.29,103.85">Strait of Malacca (SG/MY)</option>
+            <option value="6.12,100.37">Andaman Sea (MY/TH)</option>
+            <option value="13.41,120.97">South China Sea (PH/VN/MY)</option>
+            <option value="21.02,106.65">Gulf of Tonkin (VN)</option> <!--got null values-->
+            <option value="7.21,117.18">Sulu Sea (PH/MY)</option>
+            <option value="1.44,120.46">Celebes Sea (PH/ID/MY)</option>
+            <option value="-5.5,112.0">Java Sea (ID)</option>
+            <option value="5.28,103.3">Gulf of Thailand (TH/KH/VN)</option>
+            <option value="8.0,125.0">Philippine Sea (PH)</option> <!--got null values-->
+            <option value="18.2,120.5">Luzon Strait (PH/TW)</option>
+            <!-- Chokepoints -->
+            <option value="1.24,103.82">Singapore Strait (SG)</option>
+            <option value="-5.98,105.95">Sunda Strait (ID)</option>
+            <option value="-8.74,115.86">Lombok Strait (ID)</option>
+            <option value="-4.00,119.60">Makassar Strait (ID)</option>
+            <option value="-8.22,125.40">Ombai–Wetar (ID)</option>
+            <option value="-2.35,106.05">Bangka Strait (ID)</option>
+            <option value="-2.00,107.00">Karimata Strait (ID)</option>
+            <option value="12.60,121.10">Mindoro Strait (PH)</option> <!--got null values-->
+            <option value="7.50,117.10">Balabac Strait (PH/MY)</option>
+          </select>
+        </label>
+
+        <label>Date
+          <input type="date" id="forecast_date" min="<?= new Date().toISOString().split('T')[0] ?>" />
+        </label>
+
+
+        <div class="form-actions">
+          <button type="button" id="weather-btn" class="btn primary">Get Weather</button>
+        </div>
+      </form>
+
+      <div id="weather-results" class="summary-grid"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      RouteUrSea • Emissions Module — Prototype 
+      <br> ----------------------------------------------------- 
+      <br> Chong Ling | Chua Yee Zhen | Lim Yong Tien | Loke Zhi Qian | Tiew Hui Lian
+    </div>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

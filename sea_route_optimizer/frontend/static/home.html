@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>RouteUrSea — Home</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+        <style>
+            * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', sans-serif; }
+            /* styles.css - clean white + blue palette with yellow highlight */
+            :root{
+            --bg: #ffffff;
+            --blue: #0b63d8;
+            --blue-2: #0f73e8;
+            --text: #123;
+            --muted: #657786;
+            --yellow: #ffcc00;
+            --lightyellow: yellow;
+            --card: #bedaf6;
+            --radius: 10px;
+            }
+
+            body {
+                background:var(--bg);
+                color:var(--text);
+                margin:0;
+                padding:0;
+            }
+            .container {
+                max-width:1100px;
+                margin:0 auto;
+                padding:20px;
+            }
+
+            .topbar {
+                background: #0072ff;
+                color: white;
+                padding: 15px 0;
+            }
+
+            .topbar .container {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+
+            .topbar h1 {
+                margin: 0;
+                font-size: 3rem;
+            }
+
+            .topbar .sub {
+                font-size: 1.1rem;
+                font-weight: 800;
+                color:var(--lightyellow);
+                margin-left:8px;
+            }
+
+            .nav-links {
+                display: flex;
+                gap: 1.25rem; /* spacing between links */
+                align-items: center;
+            }
+
+            .nav-links a {
+                color: white;
+                text-decoration: none;
+                font-weight: 500;
+                font-size: 1.15rem;
+                transition: all 0.3s ease;
+            }
+
+            .nav-links a:hover {
+                color: yellow;
+                transform: scale(1.1);
+                text-decoration: underline;
+            }
+
+            .nav-links a.active {
+                color: yellow;
+                font-weight: bold;
+                text-decoration: underline;
+            }
+
+
+            /* Hero Section (moved to body) */
+            .hero {
+                height: 90vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+                text-align: center;
+                color: white;
+                position: relative;
+                overflow: hidden;
+            }
+
+            /* Video styling */
+            .hero-video {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                object-fit: cover; /* fills hero area without distortion */
+                z-index: 0;
+            }
+
+            /* Hero text stays on top */
+            .hero h1 { font-size: 3rem; margin-bottom: 1rem; animation: fadeInDown 1s ease forwards; position: relative; z-index: 1;}
+            .hero p { font-size: 1.2rem; max-width: 600px; animation: fadeInUp 1s ease 0.5s forwards; opacity: 0; position: relative; z-index: 1;}
+
+            /* Buttons */
+            .cta-btn {
+                display: inline-block;
+                margin-top: 2rem;
+                padding: 1rem 2rem;
+                background-color: #ffcc00;
+                color: #fff;
+                font-weight: bold;
+                border-radius: 50px;
+                cursor: pointer;
+                transition: all 0.3s ease;
+                text-decoration: none;
+                position: relative;
+                z-index: 1;
+            }
+            .cta-btn:hover { transform: scale(1.05); background-color: #8ebbff; color:#0f73e8; }
+
+            /* Animations */
+            @keyframes fadeInDown { 0% { opacity: 0; transform: translateY(-30px); } 100% { opacity: 1; transform: translateY(0); } }
+            @keyframes fadeInUp { 0% { opacity: 0; transform: translateY(30px); } 100% { opacity: 1; transform: translateY(0); } }
+
+            /* Sections */
+            section { padding: 80px 20px; text-align: center; }
+            section h2 { font-size: 2.5rem; margin-bottom: 1rem; color: #0072ff; }
+            section p { max-width: 700px; margin: 0 auto; line-height: 1.6; }
+            img {width:80%; max-width:1200px; border-radius:20px; margin-top:2rem; display:block; margin-left:auto; margin-right:auto;}
+            /* Features grid */
+            .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin-top: 2rem; }
+            .feature-card {
+            background-color: #e1f3ff; 
+            width: 100%;
+            height: 400px;
+            padding: 2rem; 
+            border-radius: 20px; 
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1); 
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            }
+            .feature-card:hover { transform: translateY(-10px); box-shadow: 0 20px 30px rgba(0,0,0,0.15); }
+            .feature-card img { width: 80%;  height: 200px; margin-bottom: 1rem; }
+
+            /* Footer */
+            footer { background-color: #0072ff; color: white; padding: 40px 20px; text-align: center; }
+        </style>
+    </head>
+    <body>
+        <!-- Topbar Header -->
+        <header class="topbar">
+            <div class="container">
+                <h1>RouteUrSea <span class="sub">— Home</span></h1>
+                <nav class="nav-links">
+                    <a href="/static/home.html" class="active">Home</a>
+                    <a href="/static/emissions.html">Emissions</a>
+                    <a href="/route">Route Selection</a>
+                </nav>
+            </div>
+        </header>
+
+        <!-- Hero Section (body element) -->
+        <div class="hero">
+            <!-- Background Video -->
+            <video autoplay muted loop playsinline class="hero-video">
+                <source src="/static/videos/ocean1.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <h1><span style="font-size: 80px;">RouteUrSea</span></h1>
+            <h1> A Smart Maritime Route Optimisation</h1>
+            <p>Generate eco-friendly routes, check compliance with MARPOL regulations, and reduce emissions with actionable insights for your vessels.</p>
+            <a href="/static/emissions.html" class="cta-btn">Try It Out</a>
+
+            <!-- Animated wave -->
+            <svg style="position:absolute; bottom:0; left:0; width:100%; height:150px;" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M0,0 C300,100 900,0 1200,100 L1200,120 L0,120 Z" fill="rgba(255,255,255,0.3)"></path>
+            </svg>
+        </div>
+
+        <!-- Features Section -->
+        <section id="features">
+            <h2>Core Features</h2>
+            <p>Our platform provides actionable insights for maritime route planning, emissions reduction, and compliance monitoring.</p>
+            <div class="features">
+                <div class="feature-card">
+                    <img src="/static/images/route.jpg" alt="Optimized Routes">
+                    <h3>Optimized Routes</h3>
+                    <p>Generate the most efficient routes based on speed, fuel type, and cargo weight while saving time and costs.</p>
+                </div>
+                <div class="feature-card">
+                    <img src="/static/images/emission.jpg" alt="Emission Estimates">
+                    <h3>Emission Estimates</h3>
+                    <p>Calculate CO₂ emissions for different scenarios and obtain eco-badges for sustainable navigation.</p>
+                </div>
+                <div class="feature-card">
+                    <img src="/static/images/compliance.jpg" alt="Regulatory Compliance">
+                    <h3>Regulatory Compliance</h3>
+                    <p>Check routes against MARPOL regulations and marine protected areas to ensure safe and legal navigation.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Demo Section -->
+        <section>
+            <h2>Why It Matters</h2>
+            <p>Our system intelligently selects routes by analyzing real-time maritime traffic to avoid congestion, integrating live weather and wave data to ensure safety, and estimating arrival times based on historical statistics. In addition, every route is automatically checked for regulatory and compliance requirements, ensuring safer and greener navigation. Optimize your voyages, reduce emissions, and contribute to a more sustainable ocean.</p>
+            <img src="/static/images/demo-map.png" alt="Demo Map" style="width:80%; border-radius:20px; margin-top:2rem;">
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+            RouteUrSea • Home Page — Prototype 
+            <br> ----------------------------------------------------- 
+            <br> Chong Ling | Chua Yee Zhen | Lim Yong Tien | Loke Zhi Qian | Tiew Hui Lian
+            </div>
+        </footer>
+
+        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    </body>
+</html>

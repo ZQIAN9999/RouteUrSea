@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>SEA Route Optimizer</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+      <link rel="stylesheet" href="../static/styles.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css"/>
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+
+</head>
+<body>
+      <header class="topbar">
+      <div class="container">
+        <h1>RouteUrSea <span class="sub">— Routes Optimisation</span></h1>
+        <nav class="nav-links">
+            <a href="../static/home.html">Home</a>
+            <a href="../static/emissions.html">Emissions</a>
+            <a href="/route" class="active">Route Selection</a>
+        </nav>
+      </div>
+    </header>
+
+  <div class="controls">
+    <label>Origin:
+      <select id="origin"></select>
+    </label>
+    <label>Destination:
+      <select id="destination"></select>
+    </label>
+    <button id="compute" class="btn gen">Generate Route</button>
+    <span id="status">idle</span>
+  </div>
+  <div id="map"></div>
+
+  <script src="/static/js/main.js"></script>
+</body>
+</html>

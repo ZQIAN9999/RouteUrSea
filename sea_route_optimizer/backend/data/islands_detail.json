@@ -1,0 +1,86 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Strait of Malacca - Sumatra Coast" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [100.0, 3.0],
+          [100.3, 3.2],
+          [100.6, 3.5],
+          [100.9, 3.8],
+          [101.1, 4.0],
+          [101.0, 4.3],
+          [100.7, 4.2],
+          [100.4, 4.0],
+          [100.1, 3.6],
+          [100.0, 3.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Strait of Malacca - Malay Peninsula Coast" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [101.5, 2.5],
+          [101.8, 2.7],
+          [102.0, 3.0],
+          [102.0, 3.4],
+          [101.7, 3.6],
+          [101.4, 3.3],
+          [101.3, 2.9],
+          [101.5, 2.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Makassar Strait - Southern Bay" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [119.3, -4.8],
+          [119.6, -4.6],
+          [119.8, -4.3],
+          [119.7, -4.0],
+          [119.4, -3.9],
+          [119.1, -4.1],
+          [119.3, -4.8]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sulu Archipelago" },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [[[120.0, 6.0],[120.2, 6.1],[120.3, 6.3],[120.1, 6.4],[119.9, 6.2],[120.0, 6.0]]],
+          [[[120.5, 5.8],[120.7, 6.0],[120.8, 6.2],[120.6, 6.3],[120.4, 6.1],[120.5, 5.8]]]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Maluku Islands - Banda Sea Segment" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [129.0, -4.8],
+          [129.3, -4.6],
+          [129.6, -4.4],
+          [129.7, -4.1],
+          [129.4, -4.0],
+          [129.1, -4.2],
+          [128.9, -4.5],
+          [129.0, -4.8]
+        ]]
+      }
+    }
+  ]
+}
